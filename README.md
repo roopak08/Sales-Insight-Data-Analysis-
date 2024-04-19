@@ -1,8 +1,4 @@
-<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL <a href="https://public.tableau.com/app/profile/mrankitgupta" target="_blank" rel="noreferrer"></a> </h1>
-
-**I am sharing India based Hardware company Sales Insights - A Data Analysis Project performed on Tableau & SQL in my journey into Data Science.** 
-
-For more detials, refer: <code>[Data Analyst Roadmap]</code> :hourglass:
+<h1 align="center">Sales Insights - Data Analysis using Tableau & SQL </h1>
 
 ### About Project 👨‍💻
 
